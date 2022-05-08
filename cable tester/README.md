@@ -3,7 +3,8 @@
 * Over Voltage Protection
 * Under Voltage Protection
 * Over Current Protection
-* Constan Current Limitting
+* Constant Current Limitting
 * Opto Driver
+* IO Expander
 * Isolated Testing
 * Double Side Component Place
